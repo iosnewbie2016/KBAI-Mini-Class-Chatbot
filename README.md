@@ -4,37 +4,9 @@
 
 Python 3.6 or above
 
-### Files
-
-| File | Change? | Description |
-| ---- | ------- | ----------- |
-| ExampleQuestions.json | YES | Add your manually generated frames into this file |
-| StudentAgent.py | YES | Add your code here |
-| AgentInterface.py | NO | Autograder to agent interface |
-| AgentGrader.py | NO | The autograder will test your agent and output a result |
-| common.py | NO | Helper functions |
-
-
-## To run grader
-
+## To run 
 ```
 python AgentGrader.py
-
-==================================
-Autograder - Version student083118
-
-
-usage: -f <json containing dictionary frames>
-       -l <path/filename to log file>
-       -v verbose output to console
-       -h this message to console
-==================================
-
-Opening frames: ExampleQuestions.json
-Redirecting to file: results.out
-Logging to file: results.log
-
-```
 
 ## Autograder Output
 
