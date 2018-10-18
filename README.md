@@ -1,4 +1,6 @@
-## Projects for CS-4635-A AND CS-7637-A AND CS-4635-O01 AND CS-7637-O
+## Project 1 for CS-4635 : Mini Class Chatbot
+
+Read Project1_KevinKusuma for Project Description and Report.
 
 ### Requirements
 
