@@ -1,0 +1,192 @@
+[
+    {
+        "question":"when is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"when is the first project due",
+        "object":"first project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is project 1 due",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"what is the due date is project 1",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the project released",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"where do I turn in my project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where is the project specification",
+        "object":"project specification",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how long do we have to complete a project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"what is the project 2 release date",
+        "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what is the procedure for submitting project 1",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when must order 5 be turned in",
+        "object":"order 5",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is exam 1",
+        "object":"exam 1",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when will the ticket be released",
+        "object":"ticket",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when is the due date of exam 1",
+        "object":"exam 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when must the statement be turned in",
+        "object":"statement",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what time does the final exam start",
+        "object":"final exam",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when is the second project release date",
+        "object":"second project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when must project 1 be turned in",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how much does the project contribute to my grade",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"when will my grades be available",
+        "object":"grades",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the project released",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when should we submit the project",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when should we turn the project in",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how long do we have to do the project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"how much time do we have to complete project1",
+        "object":"project1",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"where do i turn in my project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how do we turn in our project2",
+        "object":"project2",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what is the percentage of peer feedback",
+        "object":"peer feedback",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"where can i find the course syllabus",
+        "object":"course syllabus",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how are the exams given",
+        "object":"exams",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when will the final grades be released",
+        "object":"final grades",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"where is the location of project 1",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when is the project1 for this class due",
+        "object":"project1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is project 1 for this class due",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what is the project 1 due date for class",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    }
+]
